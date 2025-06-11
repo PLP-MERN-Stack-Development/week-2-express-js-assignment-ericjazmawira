@@ -16,5 +16,5 @@ A simple Express.js API for managing products. Includes full CRUD functionality,
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/PLP-MERN-Stack-Development/week-2-express-js-assignment-ericjazmawira.git
 cd product-api
